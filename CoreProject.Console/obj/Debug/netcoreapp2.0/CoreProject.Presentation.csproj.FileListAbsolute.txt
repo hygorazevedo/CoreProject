@@ -1,0 +1,16 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Presentation.deps.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Presentation.runtimeconfig.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Presentation.runtimeconfig.dev.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Presentation.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Presentation.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.AssemblyInfo.cs
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Core.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Infraestructure.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Core.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\bin\Debug\netcoreapp2.0\CoreProject.Infraestructure.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Presentation.csproj.CopyComplete

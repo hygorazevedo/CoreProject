@@ -1,0 +1,14 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\CoreProject.Tests.deps.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\CoreProject.Tests.runtimeconfig.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\CoreProject.Tests.runtimeconfig.dev.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\CoreProject.Tests.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\bin\Debug\netcoreapp2.0\CoreProject.Tests.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.AssemblyInfoInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.AssemblyInfo.cs
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Tests\obj\Debug\netcoreapp2.0\CoreProject.Tests.pdb

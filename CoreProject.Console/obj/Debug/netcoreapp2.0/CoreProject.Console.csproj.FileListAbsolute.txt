@@ -1,0 +1,4 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Console.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Console.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Console.AssemblyInfoInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Console\obj\Debug\netcoreapp2.0\CoreProject.Console.AssemblyInfo.cs

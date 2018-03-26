@@ -1,0 +1,12 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\bin\Debug\netcoreapp2.0\CoreProject.Infraestructure.deps.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\bin\Debug\netcoreapp2.0\CoreProject.Infraestructure.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\bin\Debug\netcoreapp2.0\CoreProject.Infraestructure.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.AssemblyInfo.cs
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\bin\Debug\netcoreapp2.0\CoreProject.Core.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\bin\Debug\netcoreapp2.0\CoreProject.Core.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Infraestructure\obj\Debug\netcoreapp2.0\CoreProject.Infraestructure.csproj.CopyComplete

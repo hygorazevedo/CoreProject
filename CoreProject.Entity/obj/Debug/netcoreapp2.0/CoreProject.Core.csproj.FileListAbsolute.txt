@@ -1,0 +1,9 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp2.0\CoreProject.Core.deps.json
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp2.0\CoreProject.Core.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\bin\Debug\netcoreapp2.0\CoreProject.Core.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.AssemblyInfoInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.AssemblyInfo.cs
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\CoreProject\CoreProject.Entity\obj\Debug\netcoreapp2.0\CoreProject.Core.pdb
